@@ -7,8 +7,13 @@ Vanilla JavaScript game
  I implemented te use of:
  
 document.querySelector
+
 textContent
+
 forEach
+
 addEventListener
+
 setInterval
+
 classList.add
